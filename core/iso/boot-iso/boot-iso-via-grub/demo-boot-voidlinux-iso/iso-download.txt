@@ -1,0 +1,8 @@
+https://repo-default.voidlinux.org/live/current/void-live-x86_64-20250202-xfce.iso
+
+
+
+
+https://repo-default.voidlinux.org/live/current/sha256sum.txt
+
+https://repo-default.voidlinux.org/live/current/sha256sum.sig
