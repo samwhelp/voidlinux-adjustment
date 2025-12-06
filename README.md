@@ -34,7 +34,6 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Voidlinux Xfce Adjustment](https://samwhelp.github.io/voidlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-xfce-adjustment) |
-| [Voidlinux Gnome Shell Adjustment](https://samwhelp.github.io/voidlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment) |
 
 
 
