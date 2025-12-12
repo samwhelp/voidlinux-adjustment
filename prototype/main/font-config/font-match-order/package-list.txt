@@ -8,10 +8,19 @@
 
 
 ##
+## ## Link
+##
+## * https://voidlinux.org/packages/?arch=x86_64&q=font
+##
+
+
+
+
+##
 ## ## Package / font
 ##
 
-ttf-dejavu
+dejavu-fonts-ttf
 
 
 ttf-ubuntu-font-family
@@ -25,8 +34,9 @@ noto-fonts-cjk
 #noto-fonts-extra
 
 
-ttf-liberation
-#ttf-liberation-mono-nerd
+liberation-fonts-ttf
 
 
-#ttf-jetbrains-mono
+#font-inconsolata-otf
+
+#font-sourcecodepro
