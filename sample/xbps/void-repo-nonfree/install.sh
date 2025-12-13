@@ -1,9 +1,9 @@
 
-## find
+## find repo
 #xbps-query -Rs repo
 
 
-## install
+## install void-repo-nonfree
 sudo xbps-install -Su void-repo-nonfree
 
 
@@ -18,4 +18,4 @@ sudo xbps-install -Su sublime-text4
 ## add /usr/bin/subl symbolic link to /usr/bin/subl4
 cd /usr/bin
 sudo ln -sf subl4 subl
-file file /usr/bin/subl
+file /usr/bin/subl
