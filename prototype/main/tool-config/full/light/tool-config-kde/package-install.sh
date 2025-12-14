@@ -81,9 +81,9 @@ main_package_install () {
 	## ## Void Linux
 	##
 
-	# sudo xbps-install $(cat package-list.txt)
-	# sudo xbps-install $(main_package_find_list_raw)
-	sudo xbps-install $(main_package_find_list)
+	# sudo xbps-install -Su $(cat package-list.txt)
+	# sudo xbps-install -Su $(main_package_find_list_raw)
+	sudo xbps-install -Su $(main_package_find_list)
 
 
 }
