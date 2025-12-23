@@ -34,6 +34,12 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Voidlinux Xfce Adjustment](https://samwhelp.github.io/voidlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-xfce-adjustment) |
+| [Voidlinux Kde Plasma Adjustment](https://samwhelp.github.io/voidlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-kde-plasma-adjustment) |
+| [Voidlinux Gnome Shell Adjustment](https://samwhelp.github.io/voidlinux-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-gnome-shell-adjustment) |
+| [Voidlinux Cinnamon Adjustment](https://samwhelp.github.io/voidlinux-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-cinnamon-adjustment) |
+| [Voidlinux Mate Adjustment](https://samwhelp.github.io/voidlinux-mate-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-mate-adjustment) |
+| [Voidlinux Lxqt Adjustment](https://samwhelp.github.io/voidlinux-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-lxqt-adjustment) |
+| [Voidlinux Lxde Adjustment](https://samwhelp.github.io/voidlinux-lxde-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-lxde-adjustment) |
 
 
 
