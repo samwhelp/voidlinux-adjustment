@@ -21,4 +21,4 @@ xdg-user-dirs
 ## ## Package / pygithub
 ##
 
-python-pygithub
+python3-github3
